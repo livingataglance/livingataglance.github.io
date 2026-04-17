@@ -373,7 +373,7 @@ body {
     min-width: 300px;
     background-color: var(--bg-card);
     border: 1px solid var(--border-color);
-    padding: 4rem 3rem;
+    padding: 2.5rem 2rem;
     border-radius: 12px;
     transition: var(--transition-medium);
     backdrop-filter: blur(10px);
@@ -412,14 +412,14 @@ body {
 
 .service-card h4 {
     font-family: var(--font-heading);
-    font-size: 2rem;
-    margin-bottom: 1.25rem;
+    font-size: 1.7rem;
+    margin-bottom: 1rem;
 }
 
 .service-card p {
     color: var(--text-secondary);
-    font-size: 1.25rem;
-    line-height: 1.8;
+    font-size: 1.1rem;
+    line-height: 1.6;
 }
 
 /* 
